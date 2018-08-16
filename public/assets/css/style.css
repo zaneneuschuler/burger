@@ -1,7 +1,5 @@
 li {
-    padding: 5px;
-    margin: 5px;
-    background: #faebd7;
+
 }
 
 .label {
@@ -16,4 +14,49 @@ li {
 
 .form-group {
     margin-bottom: 5px;
+}
+
+.burg{
+    height: 300px;
+    width: 300px;
+}
+
+.burgTron{
+    width: 100%;
+    padding: 2rem;
+        background-color: rgba(218, 166, 11, 0.46);
+        margin-bottom: 2px;
+}
+
+.formage{
+
+    display: inline-block;
+}
+
+
+.dameat{
+    background-color: rgba(90, 60, 6, 0.82);
+    border-radius: 3px;
+    padding: 5px;
+}
+
+.dalettuce{
+    background-color: rgba(29, 140, 27, 0.82);
+    color: rgba(29, 140, 27, 0);
+    margin-top: 2px;
+    margin-bottom: 2px;
+    border-radius: 3px;
+
+}
+#bottom{
+    margin-top: 5px;
+}
+
+.listItem{
+ background-color: rgba(29, 140, 27, 0.82);
+display: inline-block;
+    border-radius: 5px;
+    margin: 3px;
+    padding: 6px;
+    font-weight: bold;
 }
